@@ -8,6 +8,19 @@
 
 from node import Node
 
+
+"""
+To move to parent class:
+init
+traversals
+find_node
+heap height
+get root
+
+to override:
+insert
+"""
+
 class MinHeap:
 	"""
 	Initialization function. 
